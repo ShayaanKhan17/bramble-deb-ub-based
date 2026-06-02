@@ -1,0 +1,12 @@
+# Ignore massive ISO outputs and base images
+*.iso
+*.img
+*.qcow2
+
+# Ignore python cache files
+__pycache__/
+*.pyc
+
+# Ignore temporary text editor swap files
+*.swp
+.DS_Store

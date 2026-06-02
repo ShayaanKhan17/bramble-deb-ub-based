@@ -1,0 +1,20 @@
+# --- Core Desktop Environment ---
+xfce4
+xfce4-goodies
+lightdm
+
+# --- Deep Virtualization & Security Sandboxing ---
+docker.io
+podman
+firejail
+
+# --- Automated Data Migration & Storage ---
+ntfs-3g
+timeshift
+flatpak
+gnome-software
+
+# --- System Dependencies ---
+python3-pyqt6
+git
+curl
