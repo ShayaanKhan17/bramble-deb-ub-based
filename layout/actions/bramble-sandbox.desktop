@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Open in Bramble Sandbox
+Comment=Execute this file inside a completely restricted, temporary RAM sandbox
+Exec=firejail --private --net=none xdg-open %f
+Icon=security-high
+Terminal=false
+NoDisplay=false
+MimeType=application/pdf;application/x-executable;image/png;image/jpeg;text/plain;application/zip;
+Categories=System;Security;
